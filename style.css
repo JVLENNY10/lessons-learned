@@ -1,4 +1,11 @@
 body {
+    width: 1366;
+    height: 768;
+
+    margin: 0;
+    text-align: center;
+    
+    font-family: sans-serif;
     background-color: rgb(253, 251, 251);
 }
 
@@ -7,9 +14,48 @@ body {
     height: 10%;
     
     top: 0;
-    left: 0;
     position: fixed;
-    text-align: center;
 
-    background-color: green;
+    background-color: rgb(5, 78, 17);
 }
+
+main {
+    background-color: rgb(51, 51, 51);
+}
+
+.foto {
+    height: 300px;
+
+    margin-top: 95px;
+}
+
+#minha_foto {
+    width: 200px;
+    
+    padding: 40px;
+
+    border-radius: 25%;
+}
+
+.listas {
+    padding: 20px;
+    font-size: 22px;
+
+    color: white;
+}
+
+.listas li {
+    padding: 2.5px;
+}
+
+#licoes_aprendidas {
+    margin-left: 30px;
+    text-align: justify;
+    display: inline-block;
+}
+
+#licoes_a_aprender {
+    text-align: justify;
+    display: inline-block;
+}
+
