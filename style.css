@@ -1,7 +1,7 @@
 body {
   margin: 0;
   text-align: center;
-
+  /**/
   color: white;
   font-family: monospace, sans-serif;
   background-color: rgb(253, 251, 251);
@@ -10,7 +10,7 @@ body {
 #cabecalho {
   width: 100%;
   height: 95px;
-
+  /**/
   top: 0;
   position: fixed;
   background-color: rgb(83, 83, 83);
@@ -18,7 +18,7 @@ body {
 
 #cabecalho h1 {
   margin: 30px;
-  
+  /**/
   font-style: italic;
 }
 
@@ -28,14 +28,14 @@ main {
 
 #foto {
   height: 300px;
-
+  /**/
   padding: 45px;
   margin-top: 95px;
 }
 
 #minha_foto {
   width: 225px;
-
+  /**/
   border-radius: 20%;
   border: 10px solid rgb(83, 83, 83);
 }
@@ -59,26 +59,32 @@ main {
   display: inline-block;
 }
 
+/*
 #artigo {
   font-size: 22px;
   padding: 0 0 50px;
 }
+*/
 
 .lado-esquerdo {
   width: 700px;
-
+  /**/
+  font-size: 22px;
   margin-right: 50px;
+  margin-bottom: 50;
   text-align: justify;
   display: inline-block;
 }
 
 .lado-direito {
   width: 350px;
-
+  /**/
+  font-size: 22px;
   padding: 10px 40px;
   text-align: justify;
+  margin-bottom: 50px;
   display: inline-block;
-
+  /**/
   font-weight: 200;
   border-radius: 20%;
   background-color: rgb(83, 83, 83);
@@ -107,20 +113,23 @@ main {
 
 #rodape {
   height: 200px;
-
+  /**/
   background-color: rgb(83, 83, 83);
 }
 
 #icones img {
   width: 70px;
-
+  /**/
   margin: 30px 20px 0 0;
 }
 
 #rodape p {
   width: 678px;
-
+  /**/
   padding: 15px;
   font-size: 15px;
   margin: 25px auto;
+  /**/
+  font-style: italic;
+  font-weight: 900;
 }
