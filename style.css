@@ -18,7 +18,7 @@ body {
 
 #cabecalho h1 {
   margin: 30px;
-
+  
   font-style: italic;
 }
 
@@ -61,12 +61,12 @@ main {
 
 #artigo {
   font-size: 22px;
-  padding: 0px 0 50px 0;
+  padding: 0 0 50px;
 }
 
 .lado-esquerdo {
   width: 700px;
-  
+
   margin-right: 50px;
   text-align: justify;
   display: inline-block;
@@ -79,7 +79,7 @@ main {
   text-align: justify;
   display: inline-block;
 
-  font-weight: bold;
+  font-weight: 200;
   border-radius: 20%;
   background-color: rgb(83, 83, 83);
 }
@@ -122,5 +122,5 @@ main {
 
   padding: 15px;
   font-size: 15px;
-  margin: 25px auto; 
+  margin: 25px auto;
 }
