@@ -1,28 +1,21 @@
 body {
-  /*Espaçamentos*/
   margin: 0;
   text-align: center;
-  /*Cores e Estilos*/
   color: white;
   font-family: monospace, sans-serif;
   background-color: rgb(253, 251, 251);
 }
 
 #cabecalho {
-  /*Tamanhos*/
   width: 100%;
   height: 95px;
-  /*Espaçamentos*/
   top: 0;
   position: fixed;
-  /*Cores e Estilos*/
   background-color: rgb(83, 83, 83);
 }
 
 #cabecalho h1 {
-  /*Espaçamentos*/
   margin: 30px;
-  /*Cores e Estilos*/
   font-style: italic;
 }
 
@@ -31,9 +24,7 @@ main {
 }
 
 #foto {
-  /*Tamanhos*/
   height: 300px;
-  /*Espaçamentos*/
   padding: 45px;
   margin-top: 95px;
 }
