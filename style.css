@@ -1,11 +1,9 @@
 body {
-    max-width: 1366;
-    max-height: 768;
-
     margin: 0;
     text-align: center;
     
     font-family: sans-serif;
+    color: rgb(255, 255, 255);
     background-color: rgb(253, 251, 251);
 }
 
@@ -15,8 +13,8 @@ body {
     
     top: 0;
     position: fixed;
-
-    background-color: rgb(5, 78, 17);
+    
+    background-color: rgb(83, 83, 83);
 }
 
 main {
@@ -26,22 +24,19 @@ main {
 #foto {
     height: 300px;
 
+    padding: 45px;
     margin-top: 95px;
 }
 
 #minha_foto {
-    width: 200px;
-    
-    padding: 40px;
+    width: 225px;
 
-    border-radius: 25%;
+    border-radius: 20%;
+    border: 10px solid rgb(83, 83, 83);
 }
 
 #listas {
-    padding: 20px;
     font-size: 22px;
-
-    color: white;
 }
 
 #listas li {
@@ -57,6 +52,30 @@ main {
 #licoes_a_aprender {
     text-align: justify;
     display: inline-block;
+}
+
+#artigo {
+    font-size: 25px;
+    padding: 0px 0 50px 0;
+}
+
+.lado-esquerdo {
+    width: 700px;
+
+    margin-right: 50px;
+    text-align: justify;
+    display: inline-block;
+}
+
+.lado-direito {
+    width: 350px;
+
+    padding: 10px 40px;
+    text-align: justify;
+    display: inline-block;
+
+    border-radius: 20%;
+    background-color: rgb(83, 83, 83);
 }
 
 #rodape {
@@ -75,6 +94,4 @@ main {
     width: 549px;
 
     margin: 40px auto;
-
-    color: rgb(255, 255, 255);
 }
