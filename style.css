@@ -55,27 +55,25 @@ main {
   display: inline-block;
 }
 
-/*
 #artigo {
+  height: 420px;
   font-size: 22px;
-  padding: 0 0 50px;
+  padding: 10px;
 }
-*/
 
 .lado-esquerdo {
   width: 700px;
-  font-size: 22px;
   text-align: left;
-  display: inline-block;
+  margin-left: 300px;
+  float: left;
 }
 
 .lado-direito {
   width: 350px;
-  font-size: 22px;
   padding: 10px 40px;
+  float: right;
   text-align: left;
-  margin-bottom: 50px;
-  display: inline-block;
+  margin-right: 400px;
   font-weight: 500;
   border-radius: 20%;
   background-color: rgb(83, 83, 83);
@@ -105,7 +103,6 @@ main {
   margin: 0 auto;
   padding: 15px 0 50px;
 }
-
 
 #table td {
   background-color: rgb(51, 51, 51);
