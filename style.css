@@ -101,5 +101,6 @@ main {
     font-size: 15px;
     margin: 30px auto;
 
+    font-weight: bold;
     font-style: italic;
 }
