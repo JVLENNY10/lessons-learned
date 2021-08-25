@@ -93,5 +93,7 @@ main {
 #rodape p {
     width: 549px;
 
-    margin: 40px auto;
+    margin: 35px auto;
+
+    font-style: italic;
 }
