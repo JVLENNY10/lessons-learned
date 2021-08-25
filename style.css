@@ -46,12 +46,12 @@ main {
 
 #licoes_aprendidas {
   margin-left: 50px;
-  text-align: justify;
+  text-align: left;
   display: inline-block;
 }
 
 #licoes_a_aprender {
-  text-align: justify;
+  text-align: left;
   display: inline-block;
 }
 
@@ -65,8 +65,7 @@ main {
 .lado-esquerdo {
   width: 700px;
   font-size: 22px;
-  margin-right: 50px;
-  text-align: justify;
+  text-align: left;
   display: inline-block;
 }
 
@@ -74,7 +73,7 @@ main {
   width: 350px;
   font-size: 22px;
   padding: 10px 40px;
-  text-align: justify;
+  text-align: left;
   margin-bottom: 50px;
   display: inline-block;
   font-weight: 500;
@@ -95,7 +94,7 @@ main {
 #rodape p {
   width: 678px;
   font-size: 15px;
-  margin: 25px auto;
+  margin: 20px auto;
   font-weight: 900;
   font-style: italic;
 }
@@ -104,11 +103,11 @@ main {
   width: 690px;
   height: 400px;
   margin: 0 auto;
-  padding: 15px 0 50px 0;
+  padding: 15px 0 50px;
 }
 
 
 #table td {
-  background-color:rgb(51, 51, 51);
+  background-color: rgb(51, 51, 51);
   border: 10px solid rgb(83, 83, 83);
 }
