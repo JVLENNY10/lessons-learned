@@ -55,51 +55,41 @@ main {
   display: inline-block;
 }
 
-/*
 #artigo {
   height: 420px;
   font-size: 22px;
-  padding: 10px;
 }
 
 .lado-esquerdo {
   width: 700px;
-  text-align: left;
-  margin-left: 300px;
   float: left;
+  left: 400px;
+  text-align: left;
+  position: absolute;
 }
 
 .lado-direito {
   width: 350px;
-  padding: 10px 40px;
+  right: 350px;
   float: right;
   text-align: left;
-  margin-right: 400px;
+  position: absolute;
+  padding: 10px 40px;
   font-weight: 500;
   border-radius: 20%;
   background-color: rgb(83, 83, 83);
 }
-*/
 
-#artigo {
-  font-size: 25px;
-  padding: 0 0 50px;
+#table {
+  width: 690px;
+  height: 400px;
+  margin: 0 auto;
+  padding: 15px 0 50px;
 }
 
-.lado-esquerdo {
-  width: 700px;
-  margin-right: 50px;
-  text-align: justify;
-  display: inline-block;
-}
-
-.lado-direito {
-  width: 350px;
-  padding: 10px 40px;
-  text-align: justify;
-  display: inline-block;
-  border-radius: 20%;
-  background-color: rgb(83, 83, 83);
+#table td {
+  background-color: rgb(51, 51, 51);
+  border: 10px solid rgb(83, 83, 83);
 }
 
 #rodape {
@@ -118,16 +108,4 @@ main {
   margin: 20px auto;
   font-weight: 900;
   font-style: italic;
-}
-
-#table {
-  width: 690px;
-  height: 400px;
-  margin: 0 auto;
-  padding: 15px 0 50px;
-}
-
-#table td {
-  background-color: rgb(51, 51, 51);
-  border: 10px solid rgb(83, 83, 83);
 }
