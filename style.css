@@ -98,8 +98,9 @@ main {
 #rodape p {
     width: 678px;
 
+    padding: 15px;
     font-size: 15px;
-    margin: 30px auto;
+    margin: 25px auto;
 
     font-weight: bold;
     font-style: italic;
