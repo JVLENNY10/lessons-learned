@@ -39,32 +39,26 @@ main {
 }
 
 #minha_foto {
-  /*Tamanhos*/
   width: 225px;
-  /*Cores e Estilos*/
   border-radius: 20%;
   border: 10px solid rgb(83, 83, 83);
 }
 
 #listas {
-  /*Tamanhos*/
   font-size: 20px;
 }
 
 #listas li {
-  /*Espaçamentos*/
   padding: 2.5px;
 }
 
 #licoes_aprendidas {
-  /*Espaçamentos*/
   margin-left: 50px;
   text-align: justify;
   display: inline-block;
 }
 
 #licoes_a_aprender {
-  /*Espaçamentos*/
   text-align: justify;
   display: inline-block;
 }
@@ -77,73 +71,40 @@ main {
 */
 
 .lado-esquerdo {
-  /*Tamanhos*/
   width: 700px;
   font-size: 22px;
-  /*Espaçamentos*/
   margin-right: 50px;
   text-align: justify;
   display: inline-block;
 }
 
 .lado-direito {
-  /*Tamanhos*/
   width: 350px;
   font-size: 22px;
-  /*Espaçamentos*/
   padding: 10px 40px;
   text-align: justify;
   margin-bottom: 50px;
   display: inline-block;
-  /*Cores e Estilos*/
   font-weight: 500;
   border-radius: 20%;
   background-color: rgb(83, 83, 83);
 }
 
-/*
-.lado-esquerdo {
-  width: 700px;
-
-  margin-right: 50px;
-  text-align: justify;
-  display: inline-block;
-}
-
-.lado-direito {
-  width: 350px;
-
-  padding: 10px 40px;
-  text-align: justify;
-  display: inline-block;
-
-  border-radius: 20%;
-  background-color: rgb(83, 83, 83);
-}
-*/
-
 #rodape {
-  /*Tamanhos*/
   height: 200px;
-  /*Cores e Estilos*/
   background-color: rgb(83, 83, 83);
 }
 
 #icones img {
-  /*Tamanhos*/
   width: 70px;
-  /*Espaçamentos*/
   margin: 30px 20px 0 0;
 }
 
 #rodape p {
-  /*Tamanhos*/
   width: 678px;
   font-size: 15px;
-  /*Espaçamentos*/
   padding: 15px;
   margin: 25px auto;
-  /*Cores e Estilos*/
   font-weight: 900;
   font-style: italic;
 }
