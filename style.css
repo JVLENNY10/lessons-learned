@@ -1,6 +1,7 @@
 body {
   margin: 0;
   text-align: center;
+  line-height: 30px;
   color: white;
   font-family: monospace, sans-serif;
   background-color: rgb(253, 251, 251);
@@ -94,7 +95,6 @@ main {
 #rodape p {
   width: 678px;
   font-size: 15px;
-  padding: 15px;
   margin: 25px auto;
   font-weight: 900;
   font-style: italic;
