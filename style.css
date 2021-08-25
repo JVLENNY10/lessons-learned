@@ -16,7 +16,7 @@ body {
 
 #cabecalho h1 {
     margin: 30px;
-    font-weight: bold;
+    font-style: italic;
 }
 
 main {
@@ -63,11 +63,12 @@ main {
 }
 
 .lado-direito {
-    width: 350px;
+    width: 360px;
     font-size: 22px;
     padding: 10px 40px;
     text-align: justify;
     display: inline-block;
+    font-weight: bold;
     border-radius: 20%;
     background-color: rgb(83, 83, 83);
 }
@@ -87,5 +88,5 @@ main {
     padding: 15px;
     font-size: 15px;
     margin: 25px auto;
-    font-style: italic;
+    
 }
