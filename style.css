@@ -63,18 +63,18 @@ main {
 .lado-esquerdo {
   width: 700px;
   float: left;
+  left: 400px;
   text-align: left;
-  margin-left: 400px;
-  position: static;
+  position: absolute;
 }
 
 .lado-direito {
   width: 350px;
+  right: 350px;
   float: right;
   text-align: left;
-  position: static;
+  position: absolute;
   padding: 10px 40px;
-  margin-right: 350px;
   font-weight: 500;
   border-radius: 20%;
   background-color: rgb(83, 83, 83);
