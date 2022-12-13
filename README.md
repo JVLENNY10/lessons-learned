@@ -11,7 +11,7 @@ Este projeto é básico (Foi meu primeiro projeto na [Trybe](https://www.betrybe
 ### Siga as seguintes etapas:<br/>
 
 <details>
-  <summary>1. Siga as seguintes etapas:</summary><br/>
+  <summary>1. Obtenha o repositório do projeto;</summary><br/>
 
   <p>Existem duas formas para se fazer isso:</p>
 
