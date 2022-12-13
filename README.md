@@ -13,7 +13,7 @@ Este projeto é básico (Foi meu primeiro projeto na [Trybe](https://www.betrybe
 <details>
   <summary>1. Obtenha o repositório do projeto;</summary><br/>
 
-  <p>Existem duas formas para se fazer isso:</p>
+  Existem duas formas para se fazer isso:
 
   1. Clone o repositório na sua máquina: `git clone git@github.com:JVLENNY10/lessons-learned.git`;
   2. baixe o aquivo `.zip` em sua máquina e extraia.;
