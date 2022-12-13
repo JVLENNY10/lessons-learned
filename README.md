@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-O `Lessons Learned` é um site sobre meu início na [Trybe](https://www.betrybe.com/) 🚀!
+O `Lessons Learned` é um site sobre meu início na [Trybe](https://www.betrybe.com/).
 
 Este projeto é básico (Foi meu primeiro projeto na [Trybe](https://www.betrybe.com/)), utilizei apenas HTML e CSS para seu desenvolvimento.
 
