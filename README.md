@@ -16,7 +16,7 @@ Este projeto é básico (Foi meu primeiro projeto na [Trybe](https://www.betrybe
   Existem duas formas para se fazer isso:
 
   1. Clone o repositório na sua máquina: `git clone git@github.com:JVLENNY10/lessons-learned.git`;
-  2. baixe o aquivo `.zip` em sua máquina e extraia.;
+  2. baixe o aquivo `.zip` em sua máquina e extraia.
 </details>
 
 2. Abra o arquivo "index.html".
