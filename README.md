@@ -8,8 +8,6 @@ Este projeto é básico (Foi meu primeiro projeto na [Trybe](https://www.betrybe
 
 ## Como rodar?
 
-### Siga as seguintes etapas:<br/>
-
 <details>
   <summary>1. Obtenha o repositório do projeto;</summary><br/>
 
